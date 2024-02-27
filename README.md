@@ -36,9 +36,9 @@
 </a>
 </p>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaredTweed&show_icons=true&locale=en&layout=compact" alt="JaredTweed" />&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaredTweed&show_icons=true&locale=en" alt="JaredTweed" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaredTweed&show_icons=true&locale=en&layout=compact" alt="JaredTweed" />
+</p>
 
 
 
