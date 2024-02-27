@@ -30,7 +30,17 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
 </a>
+<!-- Google Colab -->
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="googlecolab" width="40" height="40"/>
+</a>
 </p>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaredTweed&show_icons=true&locale=en&layout=compact" alt="JaredTweed" />&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaredTweed&show_icons=true&locale=en" alt="JaredTweed" />
+
+
 
 <!--
 **JaredTweed/jaredtweed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
