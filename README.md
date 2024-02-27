@@ -34,6 +34,8 @@
 </a>
 </p>
 
+![profile view count](https://komarev.com/ghpvc/?username=JaredTweed)
+
 <!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaredTweed&show_icons=true&locale=en&layout=compact" alt="JaredTweed" />
