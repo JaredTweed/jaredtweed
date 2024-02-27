@@ -34,7 +34,13 @@
 </a>
 </p>
 
-![profile view count](https://komarev.com/ghpvc/?username=JaredTweed)
+
+<p align="center">
+  <a href="https://github.com/JaredTweed/jaredtweed/blob/main/Full-stack%20Resume.pdf">
+    <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume - Full-Stack"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JaredTweed" alt="profile view count"/>
+</p>
 
 <!--
 <p align="center">
