@@ -37,7 +37,7 @@
 </a>
 </p>
 
-<p align="center">Status: Looking for a 2025 summer computer science co-op position.</p>
+<p align="center">Status: Looking for a 2025 summer computer science internship position.</p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/Full-stack%20Resume.pdf">
