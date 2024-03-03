@@ -37,8 +37,6 @@
 </a>
 </p>
 
-<p align="center">Status: Looking for a summer 2025 computer science internship position.</p>
-
 <p align="center">
   <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/Full-stack%20Resume.pdf">
     <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume - Full-Stack"/>
