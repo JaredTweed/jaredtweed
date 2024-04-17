@@ -40,6 +40,8 @@
 <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" width="40" height="40"/> </a>
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="40" height="40"/> </a>
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="40" height="40"/> </a>
 
 </p>
 
