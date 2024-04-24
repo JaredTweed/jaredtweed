@@ -1,3 +1,9 @@
+<!--
+At the interview:
+* At the end when they ask you if you have any questions, ask them "How do you imagine that my unique skills and character traits will make me excel in this role?". This will make them persuade themselves (i.e., self-persuasion), and make them imagine you as a potential employee instead of merely another applicant.
+* After the interview, near the end of their workday (on the same day), send them a short and concise email thanking them for the opportunity while reminding them of your skill set, and emphasizing things you wish you emphasized more during the interview.
+-->
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Menlo&weight=800&size=20&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=I+am+Jared+Tweed;Check+my+Wikipedia+contributions;Languages%2FFrameworks%3A" alt="Typing SVG" /></a>
 </div>
