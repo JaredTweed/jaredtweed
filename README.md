@@ -2,6 +2,9 @@
 At the interview:
 * At the end when they ask you if you have any questions, ask them "How do you imagine that my unique skills and character traits will make me excel in this role?". This will make them persuade themselves (i.e., self-persuasion), and make them imagine you as a potential employee instead of merely another applicant.
 * After the interview, near the end of their workday (on the same day), send them a short and concise email thanking them for the opportunity while reminding them of your skill set, and emphasizing things you wish you emphasized more during the interview.
+
+
+what worked well in team leadership, conflict resolution example, brain teaser, technical questions, possibilty to ask questions, refferals, expect an email on Monday, she will forward details,
 -->
 
 <div align="center">
