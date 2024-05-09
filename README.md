@@ -5,6 +5,12 @@ At the interview:
 
 
 what worked well in team leadership, conflict resolution example, brain teaser, technical questions, possibilty to ask questions, refferals, expect an email on Monday, she will forward details,
+
+Work Experience:
+Peak Hydromet Solutions
+* Node-RED
+* XML, CSV Data Parsing
+* Thingsboard
 -->
 
 <div align="center">
