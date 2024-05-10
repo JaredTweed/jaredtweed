@@ -10,6 +10,7 @@ Work Experience:
 Peak Hydromet Solutions
 * Node-RED
 * XML, CSV Data Parsing
+* Chose to use multithreading to reduce the time required for data curation.
 * Thingsboard
 -->
 
