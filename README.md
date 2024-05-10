@@ -9,8 +9,9 @@ what worked well in team leadership, conflict resolution example, brain teaser, 
 Work Experience:
 Peak Hydromet Solutions
 * Node-RED
-* XML, CSV Data Parsing
+* JSON, XML, and CSV Data Parsing
 * Chose to use multithreading to reduce the time required for data curation.
+* MongoDB
 * Thingsboard
 -->
 
