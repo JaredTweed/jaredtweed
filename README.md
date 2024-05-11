@@ -10,8 +10,8 @@ Work Experience:
 Peak Hydromet Solutions
 * Node-RED
 * JSON, XML, and CSV Data Parsing
-* Chose to use multithreading to reduce the time required for data curation.
-* MongoDB
+* Chose to use multithreading to reduce the time required for data curation. Python.
+* MongoDB with NodeJS
 * Thingsboard
 -->
 
