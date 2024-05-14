@@ -12,7 +12,7 @@ Peak Hydromet Solutions
 * JSON, XML, and CSV Data Parsing
 * Chose to use multithreading to reduce the time required for data curation. Python.
 * MongoDB with NodeJS
-* Thingsboard & JavaScript charting library like EChart.js
+* Thingsboard & JavaScript charting library called EChart.js
 -->
 
 <div align="center">
