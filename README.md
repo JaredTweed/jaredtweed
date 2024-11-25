@@ -63,8 +63,8 @@ Peak Hydromet Solutions
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/Full-stack%20Resume.pdf">
-    <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume - Full-Stack"/>
+  <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/JaredTweed-Resume.pdf">
+    <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=JaredTweed" onerror="this.style.display='none'"/>
 </p>
