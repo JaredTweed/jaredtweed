@@ -25,18 +25,22 @@ Peak Hydromet Solutions
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a> 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
 <!-- MATLAB -->
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<!-- Angular -->
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/></a>
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a>
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
 <!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
 <!-- CSS -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+<!-- LaTeX -->
+<a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" width="40" height="40"/> </a>
 <!-- R Studio (No direct icon in devicons, using an R logo as a substitute) -->
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/R-Dark.svg" alt="rstudio" width="40" height="40"/></a>
 <!-- SQL (Generic SQL icon as SQL is a language, not a specific tech with a logo) -->
@@ -45,8 +49,6 @@ Peak Hydromet Solutions
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="googlecloud" width="40" height="40"/></a>
 <!-- Google Cloud -->
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></a>
-<!-- Angular -->
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/></a>
 <!-- Google Colab -->
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="googlecolab" width="40" height="40"/></a>
 <!-- Node.js --> 
@@ -55,8 +57,6 @@ Peak Hydromet Solutions
 <!-- <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="40" height="40"/></a> -->
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="40" height="40"/></a>
-<!-- LaTeX -->
-<a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" width="40" height="40"/> </a>
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="40" height="40"/> </a>
 <!-- MongoDB -->
