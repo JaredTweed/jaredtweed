@@ -41,6 +41,8 @@ Peak Hydromet Solutions
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/R-Dark.svg" alt="rstudio" width="40" height="40"/></a>
 <!-- SQL (Generic SQL icon as SQL is a language, not a specific tech with a logo) -->
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/></a>
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="googlecloud" width="40" height="40"/></a>
 <!-- Google Cloud -->
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></a>
 <!-- Angular -->
@@ -50,7 +52,7 @@ Peak Hydromet Solutions
 <!-- Node.js --> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a>
 <!-- Docker -->
-<a href="https://hub.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="40" height="40"/></a>
+<!-- <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="40" height="40"/></a> -->
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="40" height="40"/></a>
 <!-- LaTeX -->
