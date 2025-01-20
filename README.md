@@ -19,6 +19,7 @@ Peak Hydromet Solutions
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Menlo&weight=800&size=20&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=I+am+Jared+Tweed;Check+my+Wikipedia+contributions;Languages%2FFrameworks%3A" alt="Typing SVG" /></a>
 </div>
 
+
 <!-- C -->
 <p align="center"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <!-- C++ -->
@@ -65,6 +66,9 @@ Peak Hydromet Solutions
 </p>
 
 <p align="center">
+  <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/JaredTweed-Resume.pdf">
+  <img src="https://img.shields.io/badge/My_Portfolio-jaredtweed.com-blue?style=flat" alt="View Resume"/>
+</a>
   <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/JaredTweed-Resume.pdf">
     <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume"/>
   </a>
