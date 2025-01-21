@@ -66,8 +66,8 @@ Peak Hydromet Solutions
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/JaredTweed-Resume.pdf">
-  <img src="https://img.shields.io/badge/My_Portfolio-jaredtweed.com-blue?style=flat" alt="View Resume"/>
+  <a href="https://jaredtweed.com">
+  <img src="https://img.shields.io/badge/My_Portfolio-jaredtweed.com-blue?style=flat" alt="View Portfolio"/>
 </a>
   <a href="https://raw.githubusercontent.com/JaredTweed/jaredtweed/main/JaredTweed-Resume.pdf">
     <img src="https://img.shields.io/badge/View_Resume-Full--Stack-blue?style=flat" alt="View Resume"/>
