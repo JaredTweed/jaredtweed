@@ -13,6 +13,7 @@ Peak Hydromet Solutions
 * Chose to use multithreading to reduce the time required for data curation. Python.
 * MongoDB with NodeJS
 * Thingsboard & JavaScript charting library called EChart.js
+* AI forecasting soon
 -->
 
 <div align="center">
